@@ -1,1 +1,1 @@
-Packages contain subpackages with classes for solving homework № 15.
+Packages contain subpackages with classes for solving homework № 15, 16.
